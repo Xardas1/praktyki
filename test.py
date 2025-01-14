@@ -1,1 +1,1 @@
-print("dupa")
+print("nic")
